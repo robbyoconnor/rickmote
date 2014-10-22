@@ -1,5 +1,7 @@
 rickmote
 ========
+##Modifications by @robbyoconnor
+I have modified the code slightly for use in my Computer Forensics class in an effort to not break the law and piss off my school’s IT dept. 
 
 ##The Rickmote Controller: Hijack TVs using Google Chromecast
 ![The Rickmote Controller](docs/Rickmote.jpg)
