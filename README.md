@@ -2,7 +2,7 @@ rickmote
 ========
 ##Modifications by @robbyoconnor
 I have modified the code slightly for use in my Computer Forensics class in an effort to not break the law and piss off my school’s IT dept. 
-
+I will hardcode the MAC for my Chromecast. This is obviously not how it’d work in the real world, but I digress.
 ##The Rickmote Controller: Hijack TVs using Google Chromecast
 ![The Rickmote Controller](docs/Rickmote.jpg)
 
